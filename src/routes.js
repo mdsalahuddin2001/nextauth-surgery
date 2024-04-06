@@ -9,7 +9,7 @@ export const publicRoutes = ["/"];
  * An array of routes that are for the authencication
  * @type {string[]}
  */
-export const authRoutes = ["/auth/login", "/auth/register"];
+export const authRoutes = ["/auth/login", "/auth/register", "/auth/error"];
 /**
  * api authencication prefix
  * @type {string}
